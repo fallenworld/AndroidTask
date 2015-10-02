@@ -43,4 +43,6 @@ mvc模式的内容需要阅读但不需要进行实现。
 
 以上内容中涉及到的资料可下载电子书或者购买实体书(《HeadFirst设计模式》建议购买实体书)
 
+电子书下载地址：http://pan.baidu.com/s/1c8AL4  密码：dvqe
+
 任务完成发送邮件到fallenworlder@gmail.com
